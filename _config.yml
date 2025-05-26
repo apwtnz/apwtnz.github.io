@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "王泽豪（Zehao Wang）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "OPPO Guangdong Mobile Telecommunications Corp., Ltd."
-  location         : "Dongguan, China"
-  employer         : "INTJ"
+  bio              : "INTJ"
+  location         : "OPPO Guangdong Mobile Telecommunications Corp., Ltd."
+  employer         : "Dongguan,China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qABFFSIAAAAJ&hl=zh-CN"
   email            : "apwtnz@gmail.com"
