@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王泽豪（Wang Ze_hao）"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "王泽豪（Zehao Wang）"
+description              : "CAE Engineer"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王泽豪（Wang Ze_hao）"
+  name             : "王泽豪（Zehao Wang）"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "OPPO Guangdong Mobile Telecommunications Corp., Ltd."
   location         : "Dongguan, China"
