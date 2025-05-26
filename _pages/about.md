@@ -19,30 +19,24 @@ redirect_from:
 
 # 📖 Educations
 - *2018.09 - 2022.06 , Dalian University of Technology, Civil Engineering, Bachelor's Degree, GPA:Top 15%.
-- *2022.09 - 2025.06 , Dalian University of Technology, Geotechnical Engineering, Master's Degree, GPA:Top 1% (1/47).
+- *2022.09 - 2025.06 , Dalian University of Technology, Geotechnical Engineering, Master's Degree, GPA:Top 1% (1/47, 3/576).
 
-# Capabilities
+# 🧮 Capabilities
 - **Abaqus simulation**
 - **Python pre/post-processing**
 - **Fortran usersubroutine**
 - **C++**
 
-
-
-
 # 📝 Publications 
 My research interest includes numerical simulations and marien geo-disasters. I have published more than 7 papers at international journals with total 35+ google scholar citations.
 
 *[How rapid sedimentation preconditions Submarine landslide?]*
-
 - **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Tingkai Nian*. A methodology to evaluate the real-time stability of submarine slopes under rapid sedimentation, _Journal of Marine Science and Engineering_
-
 - **Zehao Wang**, Defeng Zheng, Xingsen Guo, Zhongde Gu, Chenglin Yan, Tingkai Nian*. A review of submarine landslides associated with rapid sedimentation, _Marine Georesources&Geotechnology_
-  
-- Tingkai Nian*, **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Chenglin Yan. Numerical investigation of the instability process of underwater sedimentary slopes subjected to seismic action, _Engineering Geology_  
+- Tingkai Nian*, **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Chenglin Yan. Numerical investigation of the instability process of underwater sedimentary slopes subjected to seismic action, _Engineering Geology_
+- **Zehao Wang**, Zhongde Gu, Defeng Zheng, Yueqiang Shen, Tingkai Nian. RS_M V1.0: A modeling program for rapidly sedimented submarine slopes based on model-change technique. Registration No.: 2023SR1552155. Date of Completion: September 10, 2023 (软件著作权).
 
 *[How submarine landslide impacts offshore structures?]*
-
 - **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Yueqiang Shen, Tingkai Nian*. Investigation of offshore landslides impact on bucket foundations using a coupled SPH–FEM method, _Geoenviormental Disasters_
 
 # 🎖 Honors and Awards
@@ -54,13 +48,12 @@ My research interest includes numerical simulations and marien geo-disasters. I 
 - *2023.07* Gold Medal (Liaoning Province), “Internet+” Innovation and Entrepreneurship Competition
 - *2023.11* Outstanding Postgraduate & Academic Excellence Award, Dalian University of Technology
 - *2024.05* First Prize (University Level) & Second Prize (Liaoning Province), “San Chuang” Innovation and Entrepreneurship Competition
-- *2024.11* National Scholarship for Postgraduates
+- ***2024.11* National Scholarship for Postgraduates**
 - *2025.03* Outstanding Graduate, Dalian University of Technology&Liaoning Province
 
 # 💬 Conferences
 - *2023.12* The 5th Symposium on Marine Geotechnical Engineering, Qingdao — Oral Presentation
 - *2024.05* The 7th Conference on Island and Reef Geotechnical Engineering, Zhuhai — Oral Presentation, Outstanding Student Presentation
-
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Geological Survey Institute, China Railway Design Corporation, China.
