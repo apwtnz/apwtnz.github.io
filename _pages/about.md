@@ -46,12 +46,21 @@ Tingkai Nian*, **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Chenglin Y
 
 # 🎖 Honors and Awards
 - *2019.11* Provincial Second Prize, APMCM (Asia-Pacific Mathematical Contest in Modeling)
-- *2020.07* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.07* First Prize (University Level) & Third Prize (National Level), Energy Conservation and Emission Reduction Competition
+- *2021.06* First Prize (University Level), “Internet+” Innovation and Entrepreneurship Competition
+- *2022.06* Outstanding Graduate, Dalian University of Technology
+- *2022–2023* Director, Postgraduate Research Department, Graduate Student Union
+- *2023.07* Gold Medal (Liaoning Province), “Internet+” Innovation and Entrepreneurship Competition
+- *2023.11* Outstanding Postgraduate & Academic Excellence Award, Dalian University of Technology
+- *2024.05* First Prize (University Level) & Second Prize (Liaoning Province), “San Chuang” Innovation and Entrepreneurship Competition
+- *2024.11* National Scholarship for Postgraduates
+- *2025.03* Outstanding Graduate, Dalian University of Technology&Liaoning Province
 
+# 💬 Conferences
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.12* The 5th Symposium on Marine Geotechnical Engineering, Qingdao — Oral Presentation
+- *2024.05* The 7th Conference on Island and Reef Geotechnical Engineering, Zhuhai — Oral Presentation, Outstanding Student Presentation
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - 2024.08*, Geological Survey Institute, China Railway Design Corporation, China.
