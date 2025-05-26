@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Educations
-- *2018.09 - 2022.06 , Dalian University of Technology, Civil Engineering, Bachelor's Degree, GPA:Top 15%.
-- *2022.09 - 2025.06 , Dalian University of Technology, Geotechnical Engineering, Master's Degree, GPA:Top 1% (1/47, 3/576).
+- ***2018.09 - 2022.06 , Dalian University of Technology, Civil Engineering, Bachelor's Degree, GPA:Top 15%.**
+- ***2022.09 - 2025.06 , Dalian University of Technology, Geotechnical Engineering, Master's Degree, GPA:Top 1% (1/47, 3/576).**
 
 # 🧮 Capabilities
 - **Abaqus simulation**
