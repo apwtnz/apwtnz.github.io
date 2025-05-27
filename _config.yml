@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "王泽豪（Zehao Wang）"
-description              : "CAE Engineer"
+description              : "  INTJ  "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "王泽豪（Zehao Wang）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "  INTJ  "
-  location         : "OPPO Corp., Ltd."
-  employer         : "Dongguan,China"
+  bio              : 
+  location         : "Dongguan,China"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qABFFSIAAAAJ&hl=zh-CN"
   email            : "apwtnz@gmail.com"
