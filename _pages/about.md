@@ -43,15 +43,13 @@ My research interest includes numerical simulations and marien geo-disasters.
 - **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Yueqiang Shen, Tingkai Nian*. Investigation of offshore landslides impact on bucket foundations using a coupled SPH–FEM method, _Geoenviormental Disasters_, 2024.
 
 # 🎖 Honors and Awards
-- *2019.11*: Provincial Second Prize, Asia–Pacific Mathematical Contest in Modeling (APMCM)
-- *2020.07*: First Prize (University Level) & Third Prize (National Level), Energy Conservation and Emission Reduction Competition
-- *2021.06*: First Prize (University Level), “Internet+” Innovation and Entrepreneurship Competition
+- *2019.11*: Second Prize (National Level), Asia–Pacific Mathematical Contest in Modeling (APMCM)
+- *2020.07*: Third Prize (National Level), Energy Conservation and Emission Reduction Competition
 - *2022.06*: Outstanding Graduate, Dalian University of Technology
-- *2022.09*–*2023.06*: Director, Postgraduate Research Department, Graduate Student Union
-- *2023.07*: Gold Medal (Liaoning Province), “Internet+” Innovation and Entrepreneurship Competition
+- *2023.07*: Gold Medal (Province Level), “Internet+” Innovation and Entrepreneurship Competition
 - *2023.11*: Outstanding Postgraduate & Academic Excellence Award, Dalian University of Technology
-- *2024.05*: First Prize (University Level) & Second Prize (Liaoning Province), “San Chuang” Innovation and Entrepreneurship Competition
-- *2024.11*: National Postgraduate Scholarship
+- *2024.05*: Second Prize (Province Level), “San Chuang” Innovation and Entrepreneurship Competition
+- *2024.11*: National Scholarship (Postgraduate)
 - *2025.03*: Outstanding Graduate, Dalian University of Technology & Liaoning Province
 
 
