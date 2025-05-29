@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🛠️ Employment
--_ 2025.07_ - _Present_: CAE Engineer, OPPO Guangdong Mobile Telecommunications Corp., Ltd.
+- _2025.07_ - _Present_: CAE Engineer, OPPO Guangdong Mobile Telecommunications Corp., Ltd.
 
 # 📖 Educations
 - _2018.09 - 2022.06_ , Dalian University of Technology, Civil Engineering, Bachelor's Degree, GPA:Top 15%.
