@@ -34,13 +34,13 @@ redirect_from:
 My research interest includes numerical simulations and marien geo-disasters.
 
 *[How rapid sedimentation preconditions Submarine landslide?]*
-- **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Tingkai Nian*. A methodology to evaluate the real-time stability of submarine slopes under rapid sedimentation, _Journal of Marine Science and Engineering_
-- **Zehao Wang**, Defeng Zheng, Xingsen Guo, Zhongde Gu, Chenglin Yan, Tingkai Nian*. A review of submarine landslides associated with rapid sedimentation, _Marine Georesources&Geotechnology_
-- Tingkai Nian*, **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Chenglin Yan. Numerical investigation of the instability process of underwater sedimentary slopes subjected to seismic action, _Engineering Geology_
+- **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Tingkai Nian*. A methodology to evaluate the real-time stability of submarine slopes under rapid sedimentation, _Journal of Marine Science and Engineering_, 2024.
+- **Zehao Wang**, Defeng Zheng, Xingsen Guo, Zhongde Gu, Chenglin Yan, Tingkai Nian*. A review of submarine landslides associated with rapid sedimentation, _Marine Georesources&Geotechnology_, 2024.
+- Tingkai Nian*, **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Chenglin Yan. Numerical investigation of the instability process of underwater sedimentary slopes subjected to seismic action, _Engineering Geology_, 2025.
 - **Zehao Wang**, Zhongde Gu, Defeng Zheng, Yueqiang Shen, Tingkai Nian. RS_M V1.0: A modeling program for rapidly sedimented submarine slopes based on model-change technique. Registration No.: 2023SR1552155. Date of Completion: September 10, 2023 
 
 *[How submarine landslide impacts offshore structures?]*
-- **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Yueqiang Shen, Tingkai Nian*. Investigation of offshore landslides impact on bucket foundations using a coupled SPH–FEM method, _Geoenviormental Disasters_
+- **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Yueqiang Shen, Tingkai Nian*. Investigation of offshore landslides impact on bucket foundations using a coupled SPH–FEM method, _Geoenviormental Disasters_, 2024.
 
 # 🎖 Honors and Awards
 - *2019.11*: Provincial Second Prize, Asia–Pacific Mathematical Contest in Modeling (APMCM)
