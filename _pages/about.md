@@ -31,7 +31,7 @@ redirect_from:
 - C++
 
 # 📝 Publications 
-My research interest includes numerical simulations and marien geo-disasters.
+My research interest includes numerical simulations and marine geo-disasters.
 
 *[How rapid sedimentation preconditions Submarine landslide?]*
 - **Zehao Wang**, Defeng Zheng, Zhongde Gu, Xingsen Guo, Tingkai Nian*. A methodology to evaluate the real-time stability of submarine slopes under rapid sedimentation, _Journal of Marine Science and Engineering_, 2024.
